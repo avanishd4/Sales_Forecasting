@@ -22,7 +22,7 @@ On store sales datasets, label encoder, data parsing, and replacing or dropping 
 #### Data-Visualization: 
 Thorough understanding and a good visualisation of your dataset is more likely to improve your model’s predictions.
 
-![Viualisation](visual1.png)
+![Viualisation](image.png)
 
 #### ML Model:
 There are several machine learning techniques or models like linear regression, classifiers, and categorical models to fit your requirements. After data visualisation, we found our data to be more fitting on the linear regression model and for further improving the performance of model we used XGBoost Regressor model.
